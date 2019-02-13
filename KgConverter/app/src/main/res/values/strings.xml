@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KgConverter</string>
+    <string name="kg_to_lb">Kg to lb</string>
+    <string name="please_input_weight_in_kg">Please input weight in kg</string>
+    <string name="kg">Kg</string>
+    <string name="convert">Convert</string>
+</resources>
